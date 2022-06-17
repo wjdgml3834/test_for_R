@@ -1,30 +1,64 @@
 ---
-title: "test_R"
-author: "junghee"
+title: "이력서"
+author: "김정희"
 date: "`r Sys.Date()`"
-output: html_document
+output:
+  html_document: 
+    toc: yes
+    toc_float: yes
+    toc_depth: 2
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+------------------------------------------------------------------------
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+![](images/cd%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%82%E1%85%A6%E1%86%BA%E1%84%8B%E1%85%AD%E1%86%BC-01.jpg)
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+# About Me
 
-```{r cars}
-summary(cars)
-```
+------------------------------------------------------------------------
 
-## Including Plots
+#### Education
 
-You can also embed plots, for example:
+한양대학교 재학중
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+멋쟁이사자처럼 프론트엔드스쿨 1기
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+#### Contact
+
+Email. [wjdgml3834\@naver.com](mailto:wjdgml3834@naver.com){.email}
+
+Phone. 010-4086-1189
+
+#### Channel
+
+Github. <https://github.com/wjdgml3834>
+
+Blog. <https://codingclimber.tistory.com/>
+
+------------------------------------------------------------------------
+
+## Skill Set
+
+------------------------------------------------------------------------
+
+-   React
+-   TypeScript
+-   Next.js
+-   JavaScript
+-   Node Js
+-   mongo DB
+-   express
+
+------------------------------------------------------------------------
+
+## Introduce
+
+------------------------------------------------------------------------
+
+프론트엔드 개발에 필요한 HTML, CSS, Javascript, Node js , React를 모두 사용해본 경험이 있고, 이를 바탕으로 개인 프로젝트 10개를 완성해본 경험이 있습니다. 또한 프로그래밍 교육기관 '멋쟁이사자차럼'과 제주코딩베이스캠프에서 주최하는 CSS 경진 대회에 참가하여, 참가자 120명 중 5명안에 뽑힌 경험이 있습니다.
+
+혼자 공부하기보다는, 사람들과 같이 공부하고 지식을 나누는 과정을 좋아합니다. 서버 사이드 렌더링에 관심이 있어, 현재 오늘의 집 프론트엔드 리드 개발자이신 조은님이 주관하시는 Next.js 스터디를 주3회 진행하고 있습니다. 자바스크립트 기초가 탄탄한 개발자가 되고 싶어 현재 주 5회 1시간씩 자바스크립트 스터디를 4명의 팀원과 진행중입니다. 모던 자바스크립트 Deep Dive라는 900쪽이 넘는 책에 대해서 하루에 한 챕터씩 발표하는 형식으로 스터디를 진행하고 있습니다.
